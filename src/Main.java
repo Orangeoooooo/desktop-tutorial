@@ -6,6 +6,5 @@ public class Main {
         System.out.println("github第二行代码");
         System.out.println("github第三行代码");
         System.out.println("github第四行代码");
-        System.out.println("github第五行代码");
     }
 }
